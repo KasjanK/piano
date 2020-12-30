@@ -1,0 +1,2 @@
+This is an app that basically is a piano. 
+All you need to do is to click the notes to play the piano like Chopin!
